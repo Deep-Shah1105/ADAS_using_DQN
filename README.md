@@ -21,6 +21,22 @@ To achieve this, we employ:
 
 ---
 
+## ⚠ Disclaimer
+
+➥ The **CARLA Simulator must be installed and running on your workstation** for this code to execute.  
+➥ Download and install CARLA from the official repository: [https://github.com/carla-simulator/carla](https://github.com/carla-simulator/carla)  
+➥ Make sure you **launch the CARLA server first** (using `CarlaUE4.sh`) **before running any code**.
+
+---
+
+## 🟣 Installation
+
+1. **Clone this repository:**
+```bash
+git clone https://github.com/your-username/adas-carla-dqn.git
+cd adas-carla-dqn
+
+
 ## 🟣 Installation
 
 1. **Clone this repository:**
